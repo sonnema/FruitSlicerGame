@@ -31,6 +31,16 @@ html,body{
 	-webkit-box-shadow:0 0.2em 0 green;
 	-moz-box-shadow:0 0.2em 0 green;
 }
+#heading{
+	position:absolute;
+	top:5%;
+	left:40%;
+	font-family:cursive;
+	font-weight:bold;
+	font-size:160%;
+	text-align:center;
+	text-transform:uppercase;
+}
 #trialsLeft{
 	position:absolute;
 	top:2%;
